@@ -46,9 +46,7 @@ Aplicația respectă următoarele cerințe de business:
 Diagrama Entitate–Relație descrie structura bazei de date și relațiile dintre entități.
 
 📌 **ERD-ul se găsește aici:**  
-`/docs/erd.png`
-
-_(diagrama trebuie adăugată ca imagine în repository)_
+![ERD Diagram](ERD_POS.png)
 
 ---
 
